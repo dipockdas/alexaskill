@@ -1,0 +1,13 @@
+Notify Please let {Contact} know that I am here
+Notify Please let {Contact} know I am here
+Notify Let {Contact} that I am here
+Notify Let {Contact} know I am here
+Notify Tell {Contact} that I am here
+Notify Tell {Contact} I am here
+Notify Tell {Contact} that {Peter Smith|Visitor} using LITERAL
+Notify Please let {Contact} know that {Peter Smith|Visitor} is here
+Notify My name is {Peter Smith|Visitor} and I am here to meet {Contact}
+Notify Hi I'm {Peter Smith|Visitor} and I'm here to meet {Contact}
+Notify I'm {Peter Smith|Visitor} and I'm here to meet {Contact}
+Notify Hi I am {Peter Smith|Visitor} and I'm here to meet {Contact}
+Notify {Peter Smith|Visitor} here to meet {Contact} 

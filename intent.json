@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {     "intent": "Notify",
+      "slots": [
+        {
+          "name": "Contact",
+          "type": "EMPLOYEE"
+        },
+        {
+          "name": "Visitor",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+       {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
